@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "dev": "node ./src/server.js",
     "start": "node server.js"
   },
   "dependencies": {
